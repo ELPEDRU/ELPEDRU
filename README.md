@@ -12,7 +12,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=MTA%3ASA+Server+Developer;Full+Stack+Web+Developer;Python+%7C+Lua+%7C+JavaScript;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Web+Developer;Python+%7C+Lua+%7C+JavaScript;Building+cool+stuff+every+day+%F0%9F%9A%80;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 </div>
@@ -25,10 +25,10 @@
 ```yaml
 name: Anas
 location: France
-current_focus: AI City RolePlay (MTA:SA Server)
+current_focus: Full Stack Development
 education: BTS SIO (SLAM)
 languages: [French, English, Darija]
-fun_fact: "I build entire game servers from scratch in Lua"
+fun_fact: "I love building things from scratch"
 ```
 
 <br/>
